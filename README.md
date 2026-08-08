@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Amit Kumar
 
-<!--
-**amitkumar241295/amitkumar241295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack MERN Developer
 
-Here are some ideas to get you started:
+🎓 MCA Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Building Real-World Applications
+
+🌱 Currently Learning Advanced MERN Stack
+
+📚 Solving Data Structures & Algorithms
+
+🎯 Goal: Software Development Engineer (SDE)
