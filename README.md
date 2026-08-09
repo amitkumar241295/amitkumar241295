@@ -83,6 +83,12 @@
 - Postman
 
 ---
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,git,github,vscode,html,css,tailwind,postman" />
+</p>
+
 
 # 📊 GitHub Stats
 
