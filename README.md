@@ -186,7 +186,7 @@ Java solutions for coding interview preparation.
 
 # 📫 Connect With Me
 
-📧 Email: your-amitkumar241295@gmail.com
+📧 Email: amitkumar241295@gmail.com
 
 💼 LinkedIn: https://leetcode.com/u/fHuhG5khEn/
 
