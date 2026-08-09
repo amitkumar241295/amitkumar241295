@@ -11,3 +11,37 @@
 📚 Solving Data Structures & Algorithms
 
 🎯 Goal: Software Development Engineer (SDE)
+
+
+---
+
+# 🚀 Featured Projects
+
+## 🧾 Profittex – Smart Billing & Inventory Management System
+
+- GST Invoice Generation
+- Inventory Management
+- Expense Tracking
+- Sales & Purchase Management
+- Dashboard & Analytics
+- MERN Stack
+
+---
+
+## 🎓 Smart Classroom System
+
+- Live Video Classes
+- Digital Whiteboard
+- Live Chat
+- Attendance Monitoring
+- Live Quiz
+- Resource Library
+- WebRTC + Socket.IO
+
+---
+
+## 💻 LeetCode Java Solutions
+
+- Data Structures & Algorithms
+- Optimized Java Solutions
+- Interview Preparation
