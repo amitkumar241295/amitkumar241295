@@ -45,3 +45,39 @@
 - Data Structures & Algorithms
 - Optimized Java Solutions
 - Interview Preparation
+
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+- Java 
+- Java DSA
+- JavaScript
+- HTML5
+- CSS3
+
+## 🎨 Frontend
+
+- React.js
+- Tailwind CSS
+- Vite
+
+## ⚙️ Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+## 🗄️ Database
+
+- MongoDB
+
+## 🔧 Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
