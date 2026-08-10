@@ -133,13 +133,9 @@ Java solutions for coding interview preparation.
 
 # 📊 GitHub Stats
 
-<p align="center">
+## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amitkumar241295&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar241295&layout=compact&theme=tokyonight"/>
-
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitkumar241295&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -165,11 +161,9 @@ Java solutions for coding interview preparation.
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=amitkumar241295&theme=tokyonight&margin-w=15"/>
-
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitkumar241295&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
