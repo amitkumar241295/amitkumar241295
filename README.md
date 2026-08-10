@@ -131,13 +131,7 @@ Java solutions for coding interview preparation.
 
 ---
 
-# 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitkumar241295&show_icons=true&theme=tokyonight&hide_border=true)
-
----
 
 # 🔥 GitHub Streak
 
@@ -159,13 +153,6 @@ Java solutions for coding interview preparation.
 
 ---
 
-# 🏆 GitHub Trophies
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amitkumar241295&theme=tokyonight&no-frame=true&margin-w=10)
-
----
 
 # 📚 Current Focus
 
